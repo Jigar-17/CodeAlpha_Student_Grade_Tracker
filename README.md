@@ -21,4 +21,4 @@
   -> This project builds a strong foundation in data structures and user interaction while simulating a real-world classroom scenario.
 
   # OUTPUT:
-  
+  ![Image](https://github.com/user-attachments/assets/02af5aa8-058d-446b-a065-43de2d7f453e)
